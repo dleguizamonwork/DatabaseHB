@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Built-By: A0784702
+Build-Jdk: 12.0.2
+Implementation-Title: PruebaJFuyoAddeco
+Implementation-Version: 1.0
+Implementation-Vendor-Id: com.addeco.prueba
+Implementation-URL: https://projects.spring.io/spring-boot/#/spring-boot
+ -starter-parent/PruebaJFuyoAdecco
+Created-By: Maven Integration for Eclipse
+
